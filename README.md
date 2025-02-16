@@ -10,4 +10,4 @@ This repository contains projects and experiments from my **Edge IoT and Robotic
 - **Edge computing & real-time data processing**  
 - **Automation systems** (home, lab, and industrial use cases)  
 
-This repository showcases my practical implementations and learnings from the course. 🚀🔧
+This repository showcases my practical implementations and learnings from the course.
